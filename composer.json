@@ -1,0 +1,17 @@
+{
+    "name": "camilocontreras/before-and-after-gallery-photos",
+    "description": "Before and after plastic surgeries photos",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4":{"Inc\\": "inc"}
+    },
+    "authors": [
+        {
+            "name": "cecsdevelop",
+            "email": "51347701+cecsdevelop@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {} 
+}
